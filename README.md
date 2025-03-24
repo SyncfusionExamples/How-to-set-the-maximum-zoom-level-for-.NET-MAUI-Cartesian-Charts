@@ -9,6 +9,7 @@ A [Cartesian chart](https://www.syncfusion.com/maui-controls/maui-cartesian-char
 By customizing the [Maximum Zoom Level](https://help.syncfusion.com/maui-toolkit/cartesian-charts/zooming-and-panning#maximum-zoom-level) in [ChartZoomPanBehavior](https://help.syncfusion.com/cr/maui-toolkit/Syncfusion.Maui.Toolkit.Charts.ChartZoomPanBehavior.html), can control the extent of zooming allowed on charts, enhancing the user experience and maintaining the integrity of the chart's data representation.
 
 In this example, we will explore how to set Maximum Zoom Level for Cartesian Chart in .NET MAUI Toolkit.
+![Presentation1](https://github.com/user-attachments/assets/9e0432b7-fe69-4d02-b507-b927837a7eb7)
 
 
 ## Troubleshooting
