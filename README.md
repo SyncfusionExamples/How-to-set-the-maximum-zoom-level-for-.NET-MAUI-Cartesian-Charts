@@ -1,0 +1,1 @@
+# How-to-set-the-maximum-zoom-level-for-.NET-MAUI-Cartesian-Charts
