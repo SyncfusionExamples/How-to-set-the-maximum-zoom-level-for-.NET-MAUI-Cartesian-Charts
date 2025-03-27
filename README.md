@@ -4,7 +4,7 @@ This repository contains a sample project demonstrating how to set maximum zoom 
 
 **Cartesian Chart**
 
-A [Cartesian chart](https://www.syncfusion.com/maui-controls/maui-cartesian-charts) uses a rectangular coordinate system to plot data points on an X and Y axis. 
+A [Cartesian chart](https://www.syncfusion.com/maui-controls/maui-cartesian-charts) uses a rectangular coordinate system to plot data points on an X and Y axis. The SfCartesianChart control from Syncfusion for .NET MAUI provides a flexible and powerful way to create these charts with various data visualization options. 
 
 By customizing the [Maximum Zoom Level](https://help.syncfusion.com/maui-toolkit/cartesian-charts/zooming-and-panning#maximum-zoom-level) in [ChartZoomPanBehavior](https://help.syncfusion.com/cr/maui-toolkit/Syncfusion.Maui.Toolkit.Charts.ChartZoomPanBehavior.html), can control the extent of zooming allowed on charts, enhancing the user experience and maintaining the integrity of the chart's data representation.
 
