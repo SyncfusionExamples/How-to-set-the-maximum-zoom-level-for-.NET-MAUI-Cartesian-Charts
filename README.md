@@ -18,4 +18,4 @@ In this example, we will explore how to set Maximum Zoom Level for Cartesian Cha
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
-For a step by step procedure, refer to the [maximum zoom level KB article]().
+For a step by step procedure, refer to the [maximum zoom level KB article](https://support.syncfusion.com/kb/article/19732/how-to-set-the-maximum-zoom-level-for-cartesian-chart-in-net-maui-toolkit).
